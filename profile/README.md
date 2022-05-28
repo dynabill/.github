@@ -1,5 +1,7 @@
 # DynaBill
 
+![](https://github.com/dynabill/brand-kit/blob/main/assets/social/github-open-graph-template.png)
+
 DynaBill is an Open Source Automation Platform for the next generation of cloud service providers.
 
 * Main website: https://dynabill.cloud/
